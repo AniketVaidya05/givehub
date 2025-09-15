@@ -1,0 +1,9 @@
+flask
+flask-mail
+gunicorn
+mysql-connector-python
+pillow
+werkzeug
+
+
+
